@@ -16,4 +16,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC - transport.christosmarinos_featgh0313skg_65ff812f_revenue.borough_population
+# MAGIC - transport.christosmarinos_featgh0313skg_65ff812f_revenue.revenue_by_borough
+# MAGIC - transport.christosmarinos_featgh0313skg_65ff812f_revenue.revenue_by_tripmonth
+# MAGIC - transport.christosmarinos_featgh0313skg_65ff812f_revenue.revenue_per_inhabitant

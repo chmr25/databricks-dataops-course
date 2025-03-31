@@ -47,7 +47,9 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Job is a definition of tasks that need to be executed, i.e. populating the tables in transport.
+# MAGIC
+# MAGIC Job run is the exeucution, or an instance of the execution of that definition(job)
 
 # COMMAND ----------
 
@@ -60,4 +62,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC The jobnaming is derived from the environment ("test") as defined in autojob call
